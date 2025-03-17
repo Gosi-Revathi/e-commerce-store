@@ -22,4 +22,4 @@ jobs:
           context: .
           file: ./docker/Dockerfile  # Specify the correct path to your Dockerfile
           push: true
-          tags: yourusername/django-ecommerce:latest
+          tags: gosi22/django-ecommerce:latest
